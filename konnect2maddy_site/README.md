@@ -1,5 +1,5 @@
 # My Personal Website
-[KONNECT2MADDY](https://konnect2maddy.netlify.app/)
+[My_Portfolio](https://gaurav01.netlify.app/)
 
 ## My Projects
 
